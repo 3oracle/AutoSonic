@@ -3,7 +3,7 @@
 Lorax speaks for what can’t speak for itself, reminding you that innovation and nature can thrive together. With your choices, you can build a world where progress doesn’t come at the planet’s expense.
 
 <div align="center">
-  <img src="./docs/static/img/lorax33.jpg" alt="lorax Banner" width="100%" />
+  <img src="characters/lorax33.jpg" alt="lorax Banner" width="100%" />
 </div>
 
 <div align="center">
