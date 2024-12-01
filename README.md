@@ -1,7 +1,9 @@
-# Eliza 🤖
+# Lorax 🤖
+
+Lorax speaks for what can’t speak for itself, reminding you that innovation and nature can thrive together. With your choices, you can build a world where progress doesn’t come at the planet’s expense.
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/lorax33.jpg" alt="lorax Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -53,9 +55,9 @@ cp .env.example .env
 pnpm i && pnpm start
 ```
 
-Then read the [Documentation](https://ai16z.github.io/eliza/) to learn how to customize your Eliza.
+Then read the [Documentation](https://ai16z.github.io/eliza/) to learn how to customize your Lorax.
 
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start Lorax (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
